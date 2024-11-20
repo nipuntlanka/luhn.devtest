@@ -4,6 +4,193 @@
     "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Service\\Luhn.DevTest.Service.csproj": {}
   },
   "projects": {
+    "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Core\\Luhn.DevTest.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Core\\Luhn.DevTest.Core.csproj",
+        "projectName": "Luhn.DevTest.Core",
+        "projectPath": "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Core\\Luhn.DevTest.Core.csproj",
+        "packagesPath": "C:\\Users\\Nipun Thilanka\\.nuget\\packages\\",
+        "outputPath": "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nipun Thilanka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Data\\Luhn.DevTest.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Data\\Luhn.DevTest.Data.csproj",
+        "projectName": "Luhn.DevTest.Data",
+        "projectPath": "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Data\\Luhn.DevTest.Data.csproj",
+        "packagesPath": "C:\\Users\\Nipun Thilanka\\.nuget\\packages\\",
+        "outputPath": "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nipun Thilanka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Repository\\Luhn.DevTest.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Repository\\Luhn.DevTest.Repository.csproj",
+        "projectName": "Luhn.DevTest.Repository",
+        "projectPath": "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Repository\\Luhn.DevTest.Repository.csproj",
+        "packagesPath": "C:\\Users\\Nipun Thilanka\\.nuget\\packages\\",
+        "outputPath": "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nipun Thilanka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Data\\Luhn.DevTest.Data.csproj": {
+                "projectPath": "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Data\\Luhn.DevTest.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Service\\Luhn.DevTest.Service.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -28,7 +215,14 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Core\\Luhn.DevTest.Core.csproj": {
+                "projectPath": "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Core\\Luhn.DevTest.Core.csproj"
+              },
+              "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Repository\\Luhn.DevTest.Repository.csproj": {
+                "projectPath": "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Repository\\Luhn.DevTest.Repository.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

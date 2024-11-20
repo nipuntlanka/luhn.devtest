@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Luhn.DevTest.Api.Controllers.CreditCardController",
+    "Method": "ValidateCreditCard",
+    "RelativePath": "api/CreditCard/validate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cardNumber",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

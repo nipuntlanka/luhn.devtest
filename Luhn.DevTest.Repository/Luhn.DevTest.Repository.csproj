@@ -1,7 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\Luhn.DevTest.Core\Luhn.DevTest.Core.csproj" />
     <ProjectReference Include="..\Luhn.DevTest.Data\Luhn.DevTest.Data.csproj" />
   </ItemGroup>
 

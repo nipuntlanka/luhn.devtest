@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TCm1/ga5p8Hswri7+8R+pMEesE+R8JiCyG64Dsdtn38=",
+  "Source": "Luhn.DevTest.Api",
+  "BasePath": "_content/Luhn.DevTest.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
