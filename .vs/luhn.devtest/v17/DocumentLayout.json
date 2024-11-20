@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "D:\\MyWork\\C#\\luhn.devtest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6DBAA4B-4BB3-49C9-8208-FC424E1485E3}|Solution Items{A6DBAA4B-4BB3-49C9-8208-FC424E1485E3}|D:\\MyWork\\C#\\luhn.devtest\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A6DBAA4B-4BB3-49C9-8208-FC424E1485E3}|Solution Items{A6DBAA4B-4BB3-49C9-8208-FC424E1485E3}|solutionrelative:Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7CE5841F-82F4-4389-B285-3FA2997B68E8}|Luhn.DevTest.Api\\Luhn.DevTest.Api.csproj|d:\\mywork\\c#\\luhn.devtest\\luhn.devtest.api\\creditcardcontroller\\creditcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CE5841F-82F4-4389-B285-3FA2997B68E8}|Luhn.DevTest.Api\\Luhn.DevTest.Api.csproj|solutionrelative:luhn.devtest.api\\creditcardcontroller\\creditcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE5841F-82F4-4389-B285-3FA2997B68E8}|Luhn.DevTest.Api\\Luhn.DevTest.Api.csproj|d:\\mywork\\c#\\luhn.devtest\\luhn.devtest.api\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE5841F-82F4-4389-B285-3FA2997B68E8}|Luhn.DevTest.Api\\Luhn.DevTest.Api.csproj|solutionrelative:luhn.devtest.api\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2589F73-FE5B-48C8-A4B6-CD62847FF195}|Luhn.DevTest.Core\\Luhn.DevTest.Core.csproj|d:\\mywork\\c#\\luhn.devtest\\luhn.devtest.core\\utils\\luhnvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2589F73-FE5B-48C8-A4B6-CD62847FF195}|Luhn.DevTest.Core\\Luhn.DevTest.Core.csproj|solutionrelative:luhn.devtest.core\\utils\\luhnvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE5841F-82F4-4389-B285-3FA2997B68E8}|Luhn.DevTest.Api\\Luhn.DevTest.Api.csproj|d:\\mywork\\c#\\luhn.devtest\\luhn.devtest.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE5841F-82F4-4389-B285-3FA2997B68E8}|Luhn.DevTest.Api\\Luhn.DevTest.Api.csproj|solutionrelative:luhn.devtest.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE5841F-82F4-4389-B285-3FA2997B68E8}|Luhn.DevTest.Api\\Luhn.DevTest.Api.csproj|d:\\mywork\\c#\\luhn.devtest\\luhn.devtest.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CE5841F-82F4-4389-B285-3FA2997B68E8}|Luhn.DevTest.Api\\Luhn.DevTest.Api.csproj|solutionrelative:luhn.devtest.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DBAA4B-4BB3-49C9-8208-FC424E1485E3}|Solution Items{A6DBAA4B-4BB3-49C9-8208-FC424E1485E3}|D:\\MyWork\\C#\\luhn.devtest\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A6DBAA4B-4BB3-49C9-8208-FC424E1485E3}|Solution Items{A6DBAA4B-4BB3-49C9-8208-FC424E1485E3}|solutionrelative:Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nipun Thilanka\\AppData\\Local\\Microsoft\\VisualStudio\\NestingProfiles\\Settings1.filenesting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
@@ -25,11 +41,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "LuhnValidator.cs",
+              "DocumentMoniker": "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Core\\Utils\\LuhnValidator.cs",
+              "RelativeDocumentMoniker": "Luhn.DevTest.Core\\Utils\\LuhnValidator.cs",
+              "ToolTip": "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Core\\Utils\\LuhnValidator.cs",
+              "RelativeToolTip": "Luhn.DevTest.Core\\Utils\\LuhnValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T23:07:09.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Api\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Luhn.DevTest.Api\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Api\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "Luhn.DevTest.Api\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:57:32.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Luhn.DevTest.Api\\appsettings.json",
+              "ToolTip": "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Api\\appsettings.json",
+              "RelativeToolTip": "Luhn.DevTest.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T22:56:23.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Luhn.DevTest.Api\\Program.cs",
+              "ToolTip": "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Api\\Program.cs",
+              "RelativeToolTip": "Luhn.DevTest.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:54:54.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Dockerfile",
               "DocumentMoniker": "D:\\MyWork\\C#\\luhn.devtest\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
@@ -41,45 +109,43 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Settings1.filenesting.json",
               "DocumentMoniker": "C:\\Users\\Nipun Thilanka\\AppData\\Local\\Microsoft\\VisualStudio\\NestingProfiles\\Settings1.filenesting.json",
               "ToolTip": "C:\\Users\\Nipun Thilanka\\AppData\\Local\\Microsoft\\VisualStudio\\NestingProfiles\\Settings1.filenesting.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-20T22:29:10.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T22:29:10.916Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Luhn.DevTest.Api",
+              "DocumentIndex": 0,
+              "Title": "CreditCardController.cs",
+              "DocumentMoniker": "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Api\\CreditCardController\\CreditCardController.cs",
+              "RelativeDocumentMoniker": "Luhn.DevTest.Api\\CreditCardController\\CreditCardController.cs",
+              "ToolTip": "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Api\\CreditCardController\\CreditCardController.cs",
+              "RelativeToolTip": "Luhn.DevTest.Api\\CreditCardController\\CreditCardController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:22:01.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Luhn.DevTest.Api.csproj",
               "DocumentMoniker": "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Api\\Luhn.DevTest.Api.csproj",
               "RelativeDocumentMoniker": "Luhn.DevTest.Api\\Luhn.DevTest.Api.csproj",
               "ToolTip": "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Api\\Luhn.DevTest.Api.csproj",
               "RelativeToolTip": "Luhn.DevTest.Api\\Luhn.DevTest.Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-20T22:26:32.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreditCardController.cs",
-              "DocumentMoniker": "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Api\\CreditCardController\\CreditCardController.cs",
-              "RelativeDocumentMoniker": "Luhn.DevTest.Api\\CreditCardController\\CreditCardController.cs",
-              "ToolTip": "D:\\MyWork\\C#\\luhn.devtest\\Luhn.DevTest.Api\\CreditCardController\\CreditCardController.cs",
-              "RelativeToolTip": "Luhn.DevTest.Api\\CreditCardController\\CreditCardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T22:22:01.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T22:26:32.822Z"
             }
           ]
         }

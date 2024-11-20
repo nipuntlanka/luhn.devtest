@@ -83,3 +83,13 @@ D:\MyWork\C#\luhn.devtest\Luhn.DevTest.Api\obj\Debug\net8.0\refint\Luhn.DevTest.
 D:\MyWork\C#\luhn.devtest\Luhn.DevTest.Api\obj\Debug\net8.0\Luhn.DevTest.Api.pdb
 D:\MyWork\C#\luhn.devtest\Luhn.DevTest.Api\obj\Debug\net8.0\Luhn.DevTest.Api.genruntimeconfig.cache
 D:\MyWork\C#\luhn.devtest\Luhn.DevTest.Api\obj\Debug\net8.0\ref\Luhn.DevTest.Api.dll
+D:\MyWork\C#\luhn.devtest\Luhn.DevTest.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\MyWork\C#\luhn.devtest\Luhn.DevTest.Api\bin\Debug\net8.0\Serilog.dll
+D:\MyWork\C#\luhn.devtest\Luhn.DevTest.Api\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\MyWork\C#\luhn.devtest\Luhn.DevTest.Api\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\MyWork\C#\luhn.devtest\Luhn.DevTest.Api\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\MyWork\C#\luhn.devtest\Luhn.DevTest.Api\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\MyWork\C#\luhn.devtest\Luhn.DevTest.Api\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\MyWork\C#\luhn.devtest\Luhn.DevTest.Api\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\MyWork\C#\luhn.devtest\Luhn.DevTest.Api\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\MyWork\C#\luhn.devtest\Luhn.DevTest.Api\bin\Debug\net8.0\Serilog.Sinks.File.dll

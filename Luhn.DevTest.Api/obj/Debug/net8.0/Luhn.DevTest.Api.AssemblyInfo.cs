@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Luhn.DevTest.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cff615510eff6279e9c029caa53e4f9a3e309b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c741b744c9a801b48ca3a62b748a1e1c6166e5ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("Luhn.DevTest.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Luhn.DevTest.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

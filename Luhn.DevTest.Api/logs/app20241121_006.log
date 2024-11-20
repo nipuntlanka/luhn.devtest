@@ -1,0 +1,4 @@
+2024-11-21 12:23:06.699 +13:00 [INF] HTTP GET /api/CreditCard/validate responded 200 in 568.0548 ms
+2024-11-21 12:23:19.312 +13:00 [INF] HTTP GET /api/CreditCard/validate responded 400 in 28.9405 ms
+2024-11-21 12:23:57.126 +13:00 [INF] HTTP GET /api/CreditCard/validate responded 400 in 77.2997 ms
+2024-11-21 12:23:58.993 +13:00 [INF] HTTP GET /api/CreditCard/validate responded 400 in 14.1590 ms

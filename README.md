@@ -106,7 +106,7 @@ curl -X GET "http://localhost:7090/api/CreditCard/validate?cardNumber=4539578763
 ### **Luhn Algorithm**
 The Luhn algorithm is a simple checksum formula used to validate a variety of identification numbers, such as credit card numbers. The algorithm ensures that accidental errors in the input (e.g., mistyped digits) are detected.
 
-The algorithm is implemented in the `LuhnValidator` class within the `Booster.DevTest.Core.Utils` namespace.
+The algorithm is implemented in the `LuhnValidator` class within the `Luhn.DevTest.Core.Utils` namespace.
 
 ```csharp
 public static bool ValidateCreditCard(string cardNumber)
@@ -160,7 +160,11 @@ public void ValidateCreditCard_ShouldValidateCorrectly(string cardNumber, bool e
     bool result = LuhnValidator.ValidateCreditCard(cardNumber);
     Assert.Equal(expected, result);
 }
+```
 
+## **Logging**
+- **Serilog** is used to log all unhandled exceptions and critical application events to a file for debugging purposes.
+- Logs are located in the `logs` directory when running in a production environment.
 
 ---
 
