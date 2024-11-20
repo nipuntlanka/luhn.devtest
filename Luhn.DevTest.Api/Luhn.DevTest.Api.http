@@ -1,0 +1,6 @@
+@Luhn.DevTest.Api_HostAddress = http://localhost:5181
+
+GET {{Luhn.DevTest.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
